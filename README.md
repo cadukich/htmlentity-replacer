@@ -65,7 +65,6 @@ This extension adds a command to Visual Studio Code to replace some special char
 - &ccedil; -> `&ccedil;`
 - &Ntilde; -> `&Ntilde;`
 - &ntilde; -> `&ntilde;`
-- &iquest; -> `&iquest;` 
 - &iexcl; -> `&iexcl;` 
 - &iquest; -> `&iquest;`
 
